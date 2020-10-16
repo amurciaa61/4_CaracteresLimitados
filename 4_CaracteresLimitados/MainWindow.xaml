@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="Caracteres limitados"
         Height="418"
-        Width="608">
+        Width="608"
+        Icon="Imagenes/texto.ico">
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1"
